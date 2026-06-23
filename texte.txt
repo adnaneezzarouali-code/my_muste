@@ -1,0 +1,27 @@
+ Zxytthos <div class="container"><div class="menu">
+  <a href="#">الرئيسية</a>
+  <a href="#">من أنا</a>
+  <a href="#">الخدمات</a>
+  <a href="#">المشاريع</a>
+  <a href="#">اتصل بي</a>
+</div>
+
+  <img src="https://picsum.photos/200" class="profile">
+
+  <h1>Adnane</h1>
+
+  <p>مبرمج ومصمم مواقع ويب</p>
+
+  <a href="https://wa.me/212625149811">
+    <button>راسلني على واتساب</button>
+  </a>
+<div class="about">
+  <h2>من أنا</h2>
+<div class="services">
+
+  <h2>خدماتي</h2>
+
+  <div class="card">
+    <h3>تصميم مواقع ويب</h3>
+    <p>إنشاء مواقع احترافية ومتجاوبة مع الهاتف.</p>
+  </div>
